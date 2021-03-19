@@ -6,7 +6,7 @@
 
 **It Provide the capability to search HCL Commerce Catalog using barcode recognition on React Stores.**
 
-We have used following components to achieve the voice search
+We have used following components to achieve the Barcode scanner
 
 **React Webcam Barcode Scanner** - Capture the barcode from live Image
 
