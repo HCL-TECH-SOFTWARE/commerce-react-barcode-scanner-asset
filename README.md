@@ -21,7 +21,7 @@ We have used following components to achieve the voice search
 
 
 
-**Steps to include the Voice search in your project:**
+**Steps to include the Barcode scanner in your project:**
 1. You need to install the react-webcam-barcode-scanner in your project as a dependency.
 
    `npm install react-webcam-barcode-scanner –save`
@@ -38,7 +38,7 @@ We have used following components to achieve the voice search
 
     `  <SearchTypes showBarcodeIcon={true} setSearchBoxVal={setInput} />`
 
-4. Once All steps are done, Voice search will start working.
+4. Once All steps are done, Barcode scanner will start working.
 
   
   
