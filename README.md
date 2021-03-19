@@ -1,6 +1,6 @@
-# React-Barcode-Scanner-POC
+# React-Barcode-Scanner-Asset
 
-**DISCLAIMER:  This Proof of Concept asset is being provided as-is to help accelerate your projects.  As such, we are unable to provide official support for this asset.  We have provided documentation as well as any needed code artifacts for your use.**
+**DISCLAIMER:  This asset is being provided as-is to help accelerate your projects.  As such, we are unable to provide official support for this asset.  We have provided documentation as well as any needed code artifacts for your use.**
 
 **Prerequisites:** HCL Commerce V9.1.x / HCL Commerce React Storefront SDK
 
