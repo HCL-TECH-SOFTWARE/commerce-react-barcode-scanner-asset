@@ -45,6 +45,7 @@ We have used following components to achieve the Barcode scanner
 
 **Update Aug-2022**
 • react-webcam-barcode-scanner has been deprecated earlier year. Customers using this asset should use react-qr-barcode-scanner library.
+
 • Supported Browser details given at https://www.npmjs.com/package/react-qr-barcode-scanner
   
   **Reference**
