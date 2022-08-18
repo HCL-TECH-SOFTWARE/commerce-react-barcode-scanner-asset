@@ -9,7 +9,7 @@ If you have questions or encounter problems with an HCL Commerce open source ass
 
 **Prerequisites:** HCL Commerce V9.1.x / HCL Commerce React Storefront SDK
 
-**It Provide the capability to search HCL Commerce Catalog using barcode recognition on React Stores.**
+**It provides the capability to search HCL Commerce Catalog using barcode recognition on React Stores.**
 
 We have used following components to achieve the Barcode scanner
 
