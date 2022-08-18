@@ -18,9 +18,9 @@ We have used following components to achieve the Barcode scanner
 
 **Note**
 
-•	The Barcode Scanner currently supports only Code128, EAN and UPC-A. 
-•	The library “react-webcam-barcode-scanner “used for scanning barcode does not support the IOS chrome as this library uses HTML5 Media API “getUserMedia” which is not supported by chrome in IOS. Hence, the barcode scan icon would not be displayed for the iOS chrome.
-•	Supported Browser are Windows (Chrome, Firefox), Mac (Chrome, Safari, Firefox), Android (Chrome) and iOS(Safari)
+•	The Barcode Scanner currently supports only Code128, EAN and UPC-A. <BR/>
+•	The library “react-webcam-barcode-scanner “used for scanning barcode does not support the IOS chrome as this library uses HTML5 Media API “getUserMedia” which is not supported by chrome in IOS. Hence, the barcode scan icon would not be displayed for the iOS chrome. <BR/>
+•	Supported Browser are Windows (Chrome, Firefox), Mac (Chrome, Safari, Firefox), Android (Chrome) and iOS(Safari) <BR/>
 
 
 
@@ -47,7 +47,7 @@ We have used following components to achieve the Barcode scanner
   For more details,refer the ImplementationGuide_BarcodeScanSearch.docx file
   
 ## Update Aug-2022
-• react-webcam-barcode-scanner has been deprecated earlier year. Customers using this asset should use react-qr-barcode-scanner library.
+• react-webcam-barcode-scanner has been deprecated earlier year. Customers using this asset should use react-qr-barcode-scanner library. <BR/>
 • Supported Browser details given at https://www.npmjs.com/package/react-qr-barcode-scanner
   
  
