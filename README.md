@@ -1,6 +1,11 @@
 # React-Barcode-Scanner-Asset
 
-**DISCLAIMER:  This asset is being provided as-is to help accelerate your projects.  As such, we are unable to provide official support for this asset.  We have provided documentation as well as any needed code artifacts for your use.**
+## WARRANTY & SUPPORT 
+HCL Software provides HCL Commerce open source assets “as-is” without obligation to support them nor warranties or any kind, either express or implied, including the warranty of title, non-infringement or non-interference, and the implied warranties and conditions of merchantability and fitness for a particular purpose. HCL Commerce open source assets are not covered under the HCL Commerce master license nor Support contracts.
+
+If you have questions or encounter problems with an HCL Commerce open source asset, please open an issue in the asset's GitHub repository. For more information about [GitHub issues](https://docs.github.com/en/issues), including creating an issue, please refer to [GitHub Docs](https://docs.github.com/en). The HCL Commerce Innovation Factory Team, who develops HCL Commerce open source assets, monitors GitHub issues and will do their best to address them. 
+
+## HCLC Barcode Scanner Integration Asset
 
 **Prerequisites:** HCL Commerce V9.1.x / HCL Commerce React Storefront SDK
 
@@ -14,9 +19,7 @@ We have used following components to achieve the Barcode scanner
 **Note**
 
 •	The Barcode Scanner currently supports only Code128, EAN and UPC-A. 
-
 •	The library “react-webcam-barcode-scanner “used for scanning barcode does not support the IOS chrome as this library uses HTML5 Media API “getUserMedia” which is not supported by chrome in IOS. Hence, the barcode scan icon would not be displayed for the iOS chrome.
-
 •	Supported Browser are Windows (Chrome, Firefox), Mac (Chrome, Safari, Firefox), Android (Chrome) and iOS(Safari)
 
 
